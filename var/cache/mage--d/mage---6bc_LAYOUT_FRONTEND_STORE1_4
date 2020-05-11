@@ -1,4 +1,4 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1589013920;s:6:"expire";i:9999999999;s:4:"tags";s:37:"6bc_LAYOUT_GENERAL_CACHE_TAG,6bc_MAGE";}
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1589193622;s:6:"expire";i:9999999999;s:4:"tags";s:37:"6bc_LAYOUT_GENERAL_CACHE_TAG,6bc_MAGE";}
 <?xml version="1.0"?>
 <layouts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><handle id="catalog_category_view"><body/>
 </handle><handle id="catalogsearch_advanced_index"><body/>
@@ -6949,7 +6949,13 @@ a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1589013920;s:6:"expire";i:9999999999;s:4:"t
    <title>T&#x1EF7; gi&#xE1; h&#x1ED1;i &#x111;o&#xE1;i</title>
 </head>
 <referenceContainer name="content">
-   <block class="MyModules\ExchangeRate\Block\Index" name="exchangerate_index_index" template="MyModules_ExchangeRate::index.phtml"/>
+   <block class="MyModules\ExchangeRate\Block\Index" name="exchangerate_index_index" template="MyModules_ExchangeRate::index.phtml" cacheable="false"/>
+</referenceContainer>
+</handle><handle id="news_index_index" layout="2columns-right"><head>
+   <title>Tin c&#xF4;ng ngh&#x1EC7;</title>
+</head>
+<referenceContainer name="content">
+   <block class="MyModules\News\Block\Index" name="news_index_index" template="MyModules_News::index.phtml" cacheable="false"/>
 </referenceContainer>
 </handle><handle id="weather_index_index" layout="1column"><head>
    <title>Th&#x1EDD;i ti&#x1EBF;t</title>

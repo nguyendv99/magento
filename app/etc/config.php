@@ -263,6 +263,7 @@ return [
         'MSP_TwoFactorAuth' => 1,
         'MyModules_CronJob' => 1,
         'MyModules_ExchangeRate' => 1,
+        'MyModules_News' => 1,
         'MyModules_Weather' => 1,
         'Temando_Shipping' => 1,
         'Vertex_Tax' => 1,
