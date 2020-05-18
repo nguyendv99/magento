@@ -259,6 +259,8 @@ return [
         'Klarna_Core' => 1,
         'Klarna_Ordermanagement' => 1,
         'Klarna_Kp' => 1,
+        'Lof_All' => 1,
+        'Lof_ChatSystem' => 1,
         'Magento_PaypalReCaptcha' => 1,
         'MSP_TwoFactorAuth' => 1,
         'MyModules_CronJob' => 1,

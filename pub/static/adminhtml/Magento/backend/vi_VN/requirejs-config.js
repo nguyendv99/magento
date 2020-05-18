@@ -283,6 +283,26 @@ require.config(config);
 var config = {
     map: {
         '*': {
+            priceBox:             'Magento_Catalog/js/price-box',
+            priceOptionDate:      'Magento_Catalog/js/price-option-date',
+            priceOptionFile:      'Magento_Catalog/js/price-option-file',
+            priceOptions:         'Magento_Catalog/js/price-options',
+            priceUtils:           'Magento_Catalog/js/price-utils'
+        }
+    }
+};
+
+require.config(config);
+})();
+(function() {
+/**
+ * Copyright © Magento, Inc. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+
+var config = {
+    map: {
+        '*': {
             categoryForm:         'Magento_Catalog/catalog/category/form',
             newCategoryDialog:    'Magento_Catalog/js/new-category-dialog',
             categoryTree:         'Magento_Catalog/js/category-tree',
@@ -306,26 +326,6 @@ var config = {
             'Magento_Catalog/js/components/use-parent-settings/single-checkbox': {
                 'Magento_Catalog/js/components/use-parent-settings/toggle-disabled-mixin': true
             }
-        }
-    }
-};
-
-require.config(config);
-})();
-(function() {
-/**
- * Copyright © Magento, Inc. All rights reserved.
- * See COPYING.txt for license details.
- */
-
-var config = {
-    map: {
-        '*': {
-            priceBox:             'Magento_Catalog/js/price-box',
-            priceOptionDate:      'Magento_Catalog/js/price-option-date',
-            priceOptionFile:      'Magento_Catalog/js/price-option-file',
-            priceOptions:         'Magento_Catalog/js/price-options',
-            priceUtils:           'Magento_Catalog/js/price-utils'
         }
     }
 };
@@ -619,6 +619,24 @@ var config = {
     }
 };
 
+require.config(config);
+})();
+(function() {
+/**
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
+ */
+ var config = {
+ 	map: {
+ 		"*": {
+ 			lofallOwlCarousel: "Lof_All/lib/owl.carousel/owl.carousel.min",
+ 			lofallBootstrap: "Lof_All/lib/bootstrap/js/bootstrap.min",
+ 			lofallColorbox: "Lof_All/lib/colorbox/jquery.colorbox.min",
+ 			lofallFancybox: "Lof_All/lib/fancybox/jquery.fancybox.pack",
+ 			lofallFancyboxMouseWheel: "Lof_All/lib/fancybox/jquery.mousewheel-3.0.6.pack"
+ 		}
+ 	}
+ };
 require.config(config);
 })();
 (function() {
