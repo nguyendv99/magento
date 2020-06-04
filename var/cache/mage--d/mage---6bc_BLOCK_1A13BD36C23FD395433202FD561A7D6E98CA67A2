@@ -1,2 +1,723 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1589816725;s:6:"expire";i:1589903125;s:4:"tags";s:33:"6bc_CAT_P,6bc_BLOCK_HTML,6bc_MAGE";}
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1591282695;s:6:"expire";i:1591369095;s:4:"tags";s:33:"6bc_CAT_P,6bc_BLOCK_HTML,6bc_MAGE";}
 
+    <div style="margin-bottom: 0;" class="owl-button-top above-padding below-padding block widget block-new-products grid">
+        <div class="page-title-main">
+            <strong role="heading" aria-level="2">New Products</strong>
+        </div>
+        <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products-grid grid">
+                <div class="slider-outer">
+                    <ol style="margin-bottom: 0;" class="product-widget-slider products list items product-items widget-new-grid">
+                                                                            <li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://127.0.0.1/magento/laptop-apple-macbook-pro-2018-touch-i5-2-3ghz-8gb-256gb-mr9q2sa-a.html" class="product-item-photo">
+                                        
+<span class="product-image-container"
+      style="width:350px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 148.28571428571%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/magento/pub/media/catalog/product\cache\9f15d97c1c2e18c1f7bdd2e4f0bd2520\//a/p/apple-macbook-pro-touch-mr9q2sa-a-2018-17-600x600.jpg"
+            max-width="350"
+            max-height="519"
+            alt="Laptop Apple MacBook Pro 2018 Touch i5 2.3GHz/8GB/256GB (MR9Q2SA/A)"/></span>
+</span>
+                                    </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/magento\/wishlist\/index\/add\/","data":{"product":2341,"uenc":"aHR0cDovLzEyNy4wLjAuMS9tYWdlbnRvLw,,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/magento\/catalog\/product_compare\/add\/","data":{"product":"2341","uenc":"aHR0cDovLzEyNy4wLjAuMS9tYWdlbnRvLw,,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Laptop Apple MacBook Pro 2018 Touch i5 2.3GHz/8GB/256GB (MR9Q2SA/A)"
+                                           href="http://127.0.0.1/magento/laptop-apple-macbook-pro-2018-touch-i5-2-3ghz-8gb-256gb-mr9q2sa-a.html"
+                                           class="product-item-link">
+                                               Laptop Apple MacBook Pro 2018 Touch i5 2.3GHz/8GB/256GB (MR9Q2SA/A)                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="2341" data-price-box="product-id-2341"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-2341-widget-new-grid"                data-price-amount="44990000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">44.990.000,00 ₫</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-mage-init='{"redirectUrl":{"url":"http://127.0.0.1/magento/laptop-apple-macbook-pro-2018-touch-i5-2-3ghz-8gb-256gb-mr9q2sa-a.html?options=cart"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://127.0.0.1/magento/laptop-asus-vivobook-s14-s431-i7-8565u-8gb-32gb-512gb-win10-eb131t.html" class="product-item-photo">
+                                        
+<span class="product-image-container"
+      style="width:350px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 148.28571428571%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/magento/pub/media/catalog/product\cache\9f15d97c1c2e18c1f7bdd2e4f0bd2520\//a/s/asus-vivobook-s14-s431-i7-8565u-8gb-512gb-win10-e1a-1-600x600.jpg"
+            max-width="350"
+            max-height="519"
+            alt="Laptop Asus VivoBook S14 S431 i7 8565U/8GB+32GB/512GB/Win10 (EB131T)"/></span>
+</span>
+                                    </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/magento\/wishlist\/index\/add\/","data":{"product":2338,"uenc":"aHR0cDovLzEyNy4wLjAuMS9tYWdlbnRvLw,,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/magento\/catalog\/product_compare\/add\/","data":{"product":"2338","uenc":"aHR0cDovLzEyNy4wLjAuMS9tYWdlbnRvLw,,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Laptop Asus VivoBook S14 S431 i7 8565U/8GB+32GB/512GB/Win10 (EB131T)"
+                                           href="http://127.0.0.1/magento/laptop-asus-vivobook-s14-s431-i7-8565u-8gb-32gb-512gb-win10-eb131t.html"
+                                           class="product-item-link">
+                                               Laptop Asus VivoBook S14 S431 i7 8565U/8GB+32GB/512GB/Win10 (EB131T)                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="2338" data-price-box="product-id-2338"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-2338-widget-new-grid"                data-price-amount="23990000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">23.990.000,00 ₫</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-mage-init='{"redirectUrl":{"url":"http://127.0.0.1/magento/laptop-asus-vivobook-s14-s431-i7-8565u-8gb-32gb-512gb-win10-eb131t.html?options=cart"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://127.0.0.1/magento/laptop-dell-xps-13-9370-i7-8550u-8gb-256gb-win10-415px1.html" class="product-item-photo">
+                                        
+<span class="product-image-container"
+      style="width:350px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 148.28571428571%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/magento/pub/media/catalog/product\cache\9f15d97c1c2e18c1f7bdd2e4f0bd2520\//d/e/dell-xps-13-9370-415px1-2-600x600.jpg"
+            max-width="350"
+            max-height="519"
+            alt="Laptop Dell XPS 13 9370 i7 8550U/8GB/256GB/Win10 (415PX1)"/></span>
+</span>
+                                    </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/magento\/wishlist\/index\/add\/","data":{"product":2335,"uenc":"aHR0cDovLzEyNy4wLjAuMS9tYWdlbnRvLw,,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/magento\/catalog\/product_compare\/add\/","data":{"product":"2335","uenc":"aHR0cDovLzEyNy4wLjAuMS9tYWdlbnRvLw,,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Laptop Dell XPS 13 9370 i7 8550U/8GB/256GB/Win10 (415PX1)"
+                                           href="http://127.0.0.1/magento/laptop-dell-xps-13-9370-i7-8550u-8gb-256gb-win10-415px1.html"
+                                           class="product-item-link">
+                                               Laptop Dell XPS 13 9370 i7 8550U/8GB/256GB/Win10 (415PX1)                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="2335" data-price-box="product-id-2335"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-2335-widget-new-grid"                data-price-amount="354990000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">354.990.000,00 ₫</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-mage-init='{"redirectUrl":{"url":"http://127.0.0.1/magento/laptop-dell-xps-13-9370-i7-8550u-8gb-256gb-win10-415px1.html?options=cart"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://127.0.0.1/magento/laptop-dell-xps-9360-i7-7500u-16gb-512gb-win10-office365-99h102.html" class="product-item-photo">
+                                        
+<span class="product-image-container"
+      style="width:350px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 148.28571428571%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/magento/pub/media/catalog/product\cache\9f15d97c1c2e18c1f7bdd2e4f0bd2520\//d/e/dell-xps-9360-i7-7500u-99h102-450x300-450x300.jpg"
+            max-width="350"
+            max-height="519"
+            alt="Laptop Dell XPS 9360 i7 7500U/16GB/512GB/Win10/Office365/(99H102)"/></span>
+</span>
+                                    </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/magento\/wishlist\/index\/add\/","data":{"product":2332,"uenc":"aHR0cDovLzEyNy4wLjAuMS9tYWdlbnRvLw,,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/magento\/catalog\/product_compare\/add\/","data":{"product":"2332","uenc":"aHR0cDovLzEyNy4wLjAuMS9tYWdlbnRvLw,,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Laptop Dell XPS 9360 i7 7500U/16GB/512GB/Win10/Office365/(99H102)"
+                                           href="http://127.0.0.1/magento/laptop-dell-xps-9360-i7-7500u-16gb-512gb-win10-office365-99h102.html"
+                                           class="product-item-link">
+                                               Laptop Dell XPS 9360 i7 7500U/16GB/512GB/Win10/Office365/(99H102)                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="2332" data-price-box="product-id-2332"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-2332-widget-new-grid"                data-price-amount="31990000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">31.990.000,00 ₫</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-mage-init='{"redirectUrl":{"url":"http://127.0.0.1/magento/laptop-dell-xps-9360-i7-7500u-16gb-512gb-win10-office365-99h102.html?options=cart"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://127.0.0.1/magento/laptop-dell-xps-9360-i7-7500u-8gb-256gb-win10-office365-99h101.html" class="product-item-photo">
+                                        
+<span class="product-image-container"
+      style="width:350px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 148.28571428571%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/magento/pub/media/catalog/product\cache\9f15d97c1c2e18c1f7bdd2e4f0bd2520\//d/e/dell-xps-9360-i7-7500u-99h101-450x300-450x300.jpg"
+            max-width="350"
+            max-height="519"
+            alt="Laptop Dell XPS 9360 i7 7500U/8GB/256GB/Win10/Office365/(99H101)"/></span>
+</span>
+                                    </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/magento\/wishlist\/index\/add\/","data":{"product":2329,"uenc":"aHR0cDovLzEyNy4wLjAuMS9tYWdlbnRvLw,,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/magento\/catalog\/product_compare\/add\/","data":{"product":"2329","uenc":"aHR0cDovLzEyNy4wLjAuMS9tYWdlbnRvLw,,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Laptop Dell XPS 9360 i7 7500U/8GB/256GB/Win10/Office365/(99H101)"
+                                           href="http://127.0.0.1/magento/laptop-dell-xps-9360-i7-7500u-8gb-256gb-win10-office365-99h101.html"
+                                           class="product-item-link">
+                                               Laptop Dell XPS 9360 i7 7500U/8GB/256GB/Win10/Office365/(99H101)                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="2329" data-price-box="product-id-2329"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-2329-widget-new-grid"                data-price-amount="27990000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">27.990.000,00 ₫</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-mage-init='{"redirectUrl":{"url":"http://127.0.0.1/magento/laptop-dell-xps-9360-i7-7500u-8gb-256gb-win10-office365-99h101.html?options=cart"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://127.0.0.1/magento/laptop-dell-xps-13-9370-i7-8550u-8gb-256gb-office365-win10-415px3.html" class="product-item-photo">
+                                        
+<span class="product-image-container"
+      style="width:350px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 148.28571428571%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/magento/pub/media/catalog/product\cache\9f15d97c1c2e18c1f7bdd2e4f0bd2520\//d/e/dell-xps-13-9370-i7-8550u-8gb-256gb-office365-win1-1-1-600x600.jpg"
+            max-width="350"
+            max-height="519"
+            alt="Laptop Dell XPS 13 9370 i7 8550U/8GB/256GB/Office365/Win10 (415PX3)"/></span>
+</span>
+                                    </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/magento\/wishlist\/index\/add\/","data":{"product":2326,"uenc":"aHR0cDovLzEyNy4wLjAuMS9tYWdlbnRvLw,,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/magento\/catalog\/product_compare\/add\/","data":{"product":"2326","uenc":"aHR0cDovLzEyNy4wLjAuMS9tYWdlbnRvLw,,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Laptop Dell XPS 13 9370 i7 8550U/8GB/256GB/Office365/Win10 (415PX3)"
+                                           href="http://127.0.0.1/magento/laptop-dell-xps-13-9370-i7-8550u-8gb-256gb-office365-win10-415px3.html"
+                                           class="product-item-link">
+                                               Laptop Dell XPS 13 9370 i7 8550U/8GB/256GB/Office365/Win10 (415PX3)                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="2326" data-price-box="product-id-2326"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-2326-widget-new-grid"                data-price-amount="25990000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">25.990.000,00 ₫</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-mage-init='{"redirectUrl":{"url":"http://127.0.0.1/magento/laptop-dell-xps-13-9370-i7-8550u-8gb-256gb-office365-win10-415px3.html?options=cart"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://127.0.0.1/magento/laptop-asus-vivobook-x509ja-i7-1065g7-8gb-512gb-office-2019-win10-ej232ts.html" class="product-item-photo">
+                                        
+<span class="product-image-container"
+      style="width:350px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 148.28571428571%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/magento/pub/media/catalog/product\cache\9f15d97c1c2e18c1f7bdd2e4f0bd2520\//a/s/asus-vivobook-x509ja-i7-1065g7-4gb-512gb-win10-ej-600x600.jpg"
+            max-width="350"
+            max-height="519"
+            alt="Laptop Asus VivoBook X509JA i7 1065G7/8GB/512GB/Office 2019/Win10 (EJ232TS)"/></span>
+</span>
+                                    </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/magento\/wishlist\/index\/add\/","data":{"product":2322,"uenc":"aHR0cDovLzEyNy4wLjAuMS9tYWdlbnRvLw,,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/magento\/catalog\/product_compare\/add\/","data":{"product":"2322","uenc":"aHR0cDovLzEyNy4wLjAuMS9tYWdlbnRvLw,,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Laptop Asus VivoBook X509JA i7 1065G7/8GB/512GB/Office 2019/Win10 (EJ232TS)"
+                                           href="http://127.0.0.1/magento/laptop-asus-vivobook-x509ja-i7-1065g7-8gb-512gb-office-2019-win10-ej232ts.html"
+                                           class="product-item-link">
+                                               Laptop Asus VivoBook X509JA i7 1065G7/8GB/512GB/Office 2019/Win10 (EJ232TS)                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="2322" data-price-box="product-id-2322"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-2322-widget-new-grid"                data-price-amount="19190000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">19.190.000,00 ₫</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-mage-init='{"redirectUrl":{"url":"http://127.0.0.1/magento/laptop-asus-vivobook-x509ja-i7-1065g7-8gb-512gb-office-2019-win10-ej232ts.html?options=cart"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://127.0.0.1/magento/laptop-asus-vivobook-a512fa-i5-10210u-8gb-512gb-chut-win10-ej1734t.html" class="product-item-photo">
+                                        
+<span class="product-image-container"
+      style="width:350px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 148.28571428571%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/magento/pub/media/catalog/product\cache\9f15d97c1c2e18c1f7bdd2e4f0bd2520\//a/s/asus-vivobook-a512fa-i5-10210u-8gb-512gb-chuot-win-1-600x600.jpg"
+            max-width="350"
+            max-height="519"
+            alt="Laptop Asus VivoBook A512FA i5 10210U/8GB/512GB/Chuột/Win10 (EJ1734T)"/></span>
+</span>
+                                    </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/magento\/wishlist\/index\/add\/","data":{"product":2319,"uenc":"aHR0cDovLzEyNy4wLjAuMS9tYWdlbnRvLw,,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/magento\/catalog\/product_compare\/add\/","data":{"product":"2319","uenc":"aHR0cDovLzEyNy4wLjAuMS9tYWdlbnRvLw,,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Laptop Asus VivoBook A512FA i5 10210U/8GB/512GB/Chuột/Win10 (EJ1734T)"
+                                           href="http://127.0.0.1/magento/laptop-asus-vivobook-a512fa-i5-10210u-8gb-512gb-chut-win10-ej1734t.html"
+                                           class="product-item-link">
+                                               Laptop Asus VivoBook A512FA i5 10210U/8GB/512GB/Chuột/Win10 (EJ1734T)                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="2319" data-price-box="product-id-2319"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-2319-widget-new-grid"                data-price-amount="17290000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">17.290.000,00 ₫</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-mage-init='{"redirectUrl":{"url":"http://127.0.0.1/magento/laptop-asus-vivobook-a512fa-i5-10210u-8gb-512gb-chut-win10-ej1734t.html?options=cart"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://127.0.0.1/magento/laptop-asus-vivobook-a412fa-i3-8145u-4gb-512gb-win10-ek342t.html" class="product-item-photo">
+                                        
+<span class="product-image-container"
+      style="width:350px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 148.28571428571%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/magento/pub/media/catalog/product\cache\9f15d97c1c2e18c1f7bdd2e4f0bd2520\//a/s/asus-vivobook-s412f-i3-8145u-4gb-512gb-ek342t3-1-1-600x600.jpg"
+            max-width="350"
+            max-height="519"
+            alt="Laptop Asus VivoBook A412FA i3 8145U/4GB/512GB/Win10 (EK342T)"/></span>
+</span>
+                                    </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/magento\/wishlist\/index\/add\/","data":{"product":2316,"uenc":"aHR0cDovLzEyNy4wLjAuMS9tYWdlbnRvLw,,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/magento\/catalog\/product_compare\/add\/","data":{"product":"2316","uenc":"aHR0cDovLzEyNy4wLjAuMS9tYWdlbnRvLw,,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Laptop Asus VivoBook A412FA i3 8145U/4GB/512GB/Win10 (EK342T)"
+                                           href="http://127.0.0.1/magento/laptop-asus-vivobook-a412fa-i3-8145u-4gb-512gb-win10-ek342t.html"
+                                           class="product-item-link">
+                                               Laptop Asus VivoBook A412FA i3 8145U/4GB/512GB/Win10 (EK342T)                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="2316" data-price-box="product-id-2316"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-2316-widget-new-grid"                data-price-amount="12990000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">12.990.000,00 ₫</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-mage-init='{"redirectUrl":{"url":"http://127.0.0.1/magento/laptop-asus-vivobook-a412fa-i3-8145u-4gb-512gb-win10-ek342t.html?options=cart"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                                                                                </li><li class="product-item product-slider">                            <div class="product-item-info">
+                                <div class="product-img-main">
+                                    <a href="http://127.0.0.1/magento/laptop-asus-vivobook-a512fa-i3-8145u-4gb-512gb-win10-ej1868t.html" class="product-item-photo">
+                                        
+<span class="product-image-container"
+      style="width:350px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 148.28571428571%;">
+        <img class="product-image-photo"
+                        src="http://127.0.0.1/magento/pub/media/catalog/product\cache\9f15d97c1c2e18c1f7bdd2e4f0bd2520\//a/s/asus-vivobook-a512fa-i3-8145u-4gb-512gb-win10-ej1-220574copy-600x600.jpg"
+            max-width="350"
+            max-height="519"
+            alt="Laptop Asus VivoBook A512FA i3 8145U/4GB/512GB/Win10 (EJ1868T)"/></span>
+</span>
+                                    </a>
+                                    <div class="product-item-inner">
+                                                                                    <div class="product actions product-item-actions">
+                                                <div class="actions-secondary" data-role="add-to-links">
+                                                                                                            <a href="#"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/magento\/wishlist\/index\/add\/","data":{"product":2313,"uenc":"aHR0cDovLzEyNy4wLjAuMS9tYWdlbnRvLw,,"}}'
+                                                           class="action towishlist" data-action="add-to-wishlist"
+                                                           title="Add to Wish List">
+                                                            <span>Add to Wish List</span>
+                                                        </a>
+                                                                                                                                                                                                                        <a href="#" class="action tocompare"
+                                                           data-post='{"action":"http:\/\/127.0.0.1\/magento\/catalog\/product_compare\/add\/","data":{"product":"2313","uenc":"aHR0cDovLzEyNy4wLjAuMS9tYWdlbnRvLw,,"}}'
+                                                           title="Add to Compare">
+                                                            <span>Add to Compare</span>
+                                                        </a>
+                                                                                                    </div>
+                                            </div>
+                                                                            </div>
+                                </div>
+                                <div class="product-item-details">
+                                    <strong class="product-item-name">
+                                        <a title="Laptop Asus VivoBook A512FA i3 8145U/4GB/512GB/Win10 (EJ1868T)"
+                                           href="http://127.0.0.1/magento/laptop-asus-vivobook-a512fa-i3-8145u-4gb-512gb-win10-ej1868t.html"
+                                           class="product-item-link">
+                                               Laptop Asus VivoBook A512FA i3 8145U/4GB/512GB/Win10 (EJ1868T)                                        </a>
+                                    </strong>
+                                    <div class="price-box price-final_price" data-role="priceBox" data-product-id="2313" data-price-box="product-id-2313"><span class="normal-price">
+    
+
+<span class="price-container price-final_price&#x20;tax&#x20;weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-2313-widget-new-grid"                data-price-amount="12390000"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">12.390.000,00 ₫</span></span>
+        </span>
+</span>
+
+
+</div>
+                                                                                                                
+                                                                            <div class="product-item-inner">
+                                            <div class="product-item-actions">
+                                                                                                    <div class="actions-primary">
+                                                                                                                                                                                    <button class="action tocart primary"
+                                                                        data-mage-init='{"redirectUrl":{"url":"http://127.0.0.1/magento/laptop-asus-vivobook-a512fa-i3-8145u-4gb-512gb-win10-ej1868t.html?options=cart"}}'
+                                                                        type="button" title="Add to Cart">
+                                                                    <span>Add to Cart</span>
+                                                                </button>
+                                                                                                                                                                        </div>
+                                                                                            </div>
+                                        </div>
+                                                                    </div>
+                            </div>
+                            </li>                                            </ol>
+                </div>
+            </div>
+                    </div>
+    </div>
+    <script type="text/javascript" xml="space">
+        require(['jquery', 'pixtronowlcarousel'], function() {
+            jQuery(document).ready(function() {
+                jQuery(".product-widget-slider").owlCarousel({
+                    items: 5,
+                    itemsDesktop: [1198, 5],
+                    itemsDesktopSmall: [1023, 4],
+                    itemsTablet: [768, 3],
+                    itemsTabletSmall: [767, 3],
+                    itemsMobile: [479, 2],
+                    pagination: false,
+                    navigationText: ["<div class='left-arrow'><i class='fa fa-angle-left'></i></div>", "<div class='right-arrow'><i class='fa fa-angle-right'></div>"],
+                    navigation: true,
+                });
+                jQuery('.product-widget-slider .product-slider').show();
+            });
+        });
+    </script>

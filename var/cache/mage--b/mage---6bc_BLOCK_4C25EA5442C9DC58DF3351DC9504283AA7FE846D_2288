@@ -1,0 +1,32 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1591282764;s:6:"expire";i:1591286364;s:4:"tags";s:78:"6bc_BLOCK_HTML,6bc_CAT_P_2288,6bc_CAT_P,6bc_CAT_P_2286,6bc_CAT_P_2287,6bc_MAGE";}
+<div class="swatch-opt-2288"
+     data-role="swatch-option-2288"></div>
+
+<script type="text/x-magento-init">
+    {
+        "[data-role=swatch-option-2288]": {
+            "Magento_Swatches/js/swatch-renderer": {
+                "selectorProduct": ".product-item-details",
+                "onlySwatches": true,
+                "enableControlLabel": false,
+                "numberToShow": 16,
+                "jsonConfig": {"attributes":{"198":{"id":"198","code":"mau_sac","label":"M\u00e0u s\u1eafc","options":[{"id":"5643","label":"X\u00e1m","products":["2287"]},{"id":"5645","label":"V\u00e0ng","products":["2286"]}],"position":"0"}},"template":"<%- data.price %>\u00a0\u20ab","currencyFormat":"%s\u00a0\u20ab","optionPrices":{"2286":{"oldPrice":{"amount":22790000},"basePrice":{"amount":22790000},"finalPrice":{"amount":22790000},"tierPrices":[],"msrpPrice":{"amount":null}},"2287":{"oldPrice":{"amount":22790000},"basePrice":{"amount":22790000},"finalPrice":{"amount":22790000},"tierPrices":[],"msrpPrice":{"amount":null}}},"priceFormat":{"pattern":"%s\u00a0\u20ab","precision":0,"requiredPrecision":0,"decimalSymbol":",","groupSymbol":".","groupLength":3,"integerRequired":true},"prices":{"oldPrice":{"amount":22790000},"basePrice":{"amount":22790000},"finalPrice":{"amount":22790000}},"productId":"2288","chooseText":"Choose an Option...","images":[],"index":{"2286":{"198":"5645"},"2287":{"198":"5643"}}},
+                "jsonSwatchConfig": [],
+                "mediaCallback": "http\u003A\u002F\u002F127.0.0.1\u002Fmagento\u002Fswatches\u002Fajax\u002Fmedia\u002F",
+                "jsonSwatchImageSizeConfig": {"swatchImage":{"width":30,"height":20},"swatchThumb":{"height":90,"width":110}},
+                "showTooltip": 1            }
+        }
+    }
+</script>
+
+<script type="text/x-magento-init">
+    {
+        "[data-role=priceBox][data-price-box=product-id-2288]": {
+            "priceBox": {
+                "priceConfig": {
+                    "priceFormat": {"pattern":"%s\u00a0\u20ab","precision":0,"requiredPrecision":0,"decimalSymbol":",","groupSymbol":".","groupLength":3,"integerRequired":true},
+                    "prices": {"oldPrice":{"amount":22790000},"basePrice":{"amount":22790000},"finalPrice":{"amount":22790000}}                }
+            }
+        }
+    }
+</script>
