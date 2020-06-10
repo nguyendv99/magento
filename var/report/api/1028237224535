@@ -1,0 +1,1 @@
+"Fatal Error: 'syntax error, unexpected ''$name'' (T_CONSTANT_ENCAPSED_STRING), expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'' in 'C:\\xampp\\htdocs\\magento\\app\\code\\MyModules\\ProductAPI\\Model\\Product.php' on line 27"

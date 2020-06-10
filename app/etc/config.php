@@ -267,6 +267,7 @@ return [
         'MyModules_ExchangeRate' => 1,
         'MyModules_News' => 1,
         'MyModules_Weather' => 1,
+        'Mymodules_ProductAPI' => 1,
         'Temando_Shipping' => 1,
         'Vertex_Tax' => 1,
         'Vertex_AddressValidation' => 1,

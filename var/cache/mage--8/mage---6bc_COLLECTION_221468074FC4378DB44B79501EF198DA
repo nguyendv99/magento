@@ -1,2 +1,0 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1591282747;s:6:"expire";i:1591369147;s:4:"tags";s:38:"6bc_CAT_C,6bc_COLLECTION_DATA,6bc_MAGE";}
-[{"entity_id":"41","attribute_set_id":"3","parent_id":"2","created_at":"2020-05-17 13:32:02","updated_at":"2020-05-17 14:09:01","path":"1\/2\/41","position":"1","level":"2","children_count":"2","is_active":"1"},{"entity_id":"42","attribute_set_id":"3","parent_id":"41","created_at":"2020-05-17 14:04:42","updated_at":"2020-05-17 14:04:44","path":"1\/2\/41\/42","position":"1","level":"3","children_count":"0","is_active":"1"}]
