@@ -11,7 +11,7 @@ class Cron
         $this->_cacheTypeList = $cacheTypeList; 
         $this->_cacheFrontendPool = $cacheFrontendPool; 
     } 
-  
+
     public function myCronFunction() 
     { 
         $cache_types = array('full_page'); 
@@ -20,6 +20,6 @@ class Cron
         } 
         foreach ($this->_cacheFrontendPool as $cache_clean_flush) { 
             $cache_clean_flush->getBackend()->clean(); 
-        } 
+        }
     } 
 } 
